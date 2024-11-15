@@ -1,0 +1,9 @@
+digraph G{
+    node[shape=plaintext];
+    a [label=<
+<table border="1" cellborder="1" cellspacing="0">
+<tr><td>First(A)</td>
+<td>{(,a,}</td></tr><tr><td>First(A')</td>
+<td>{(,a,}</td></tr><tr><td>Follow(A)</td>
+<td>{$,}</td></tr><tr><td>Follow(A')</td>
+<td>{$,}</td></tr></table>>];}
